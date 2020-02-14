@@ -1,0 +1,13 @@
+JSON.parse(JSON.stringify(collection))
+
+"use strict"; // to enable strict modes to avoid common coding errors
+Read more about arrow functions and its applications
+
+familiarize self with the syntax of arrow function
+...arrayName // reserach more about rest operator
+reserach more about"Spread operator"
+reserach more abou "destructuring assignment"me
+create object using class keyword
+constructor and syntax
+read about getter and setters
+Understand the difference between import and require
