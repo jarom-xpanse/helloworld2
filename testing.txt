@@ -1,0 +1,2 @@
+Each time you make changes that you want to be reflected on GitHub, the following are the most common flow of commands:
+$ git add .$ git status # Lists all new or modified files to be committed$ git commit -m "Second commit"$ git push -u origin master

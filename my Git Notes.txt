@@ -1,0 +1,22 @@
+**Each time you make changes that you want to be reflected on GitHub, 
+**the following are the most common flow of commands:
+
+git add .
+git status
+git commit -m "commit message"
+git push -u origin master
+
+**other git commands:
+git diff // To show the changes in files not yet staged to git
+git checkout // revert back to the last commited version to the Git Repo
+
+**to make sure changes are reflected on my local copy of the repo
+git pull origin master // make sure that you have the latest version of repo each time you start
+
+**add remote origin and push:
+git remote -v // list the remote connections
+git remote add origin remote_repository_URL // sets the new remote
+git push -u origin master // pushes changes to origin
+*git push command pushes the changes in your local repository up to the remote
+*repository you specified as the origin
+
