@@ -1,6 +1,8 @@
 **Each time you make changes that you want to be reflected on GitHub, 
 **the following are the most common flow of commands:
 
+git cline <address ng repo>
+
 git add .
 git status
 git commit -m "commit message"
@@ -9,6 +11,7 @@ git push -u origin master
 **other git commands:
 git diff // To show the changes in files not yet staged to git
 git checkout // revert back to the last commited version to the Git Repo
+git log // to see the history of commit you made to your files
 
 **to make sure changes are reflected on my local copy of the repo
 git pull origin master // make sure that you have the latest version of repo each time you start
